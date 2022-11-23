@@ -36,6 +36,8 @@
 
 ## **Работа программы**
 
+![img](https://github.com/BorisovaLena/Borisova_animals/blob/master/anim.png)
+
 В программе есть возможность добавлять, изменять и удалять данные. Для этого был создан интерфейс RetrofitAPI:
 
 ```
